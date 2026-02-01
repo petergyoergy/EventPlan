@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "MongoDB User Group: Q1 2026",
+    "date": "2026-03-15",
+    "time": "18:00",
+    "location": {
+      "name": "TechHub Berlin",
+      "address": "Friedrichstraße 123, 10117 Berlin",
+      "mapUrl": "https://maps.google.com"
+    },
+    "type": "UserGroup",
+    "speakers": [
+      {
+        "name": "Jane Doe",
+        "bio": "Senior Developer Advocate at MongoDB",
+        "twitter": "janedoe"
+      },
+      {
+        "name": "John Smith",
+        "bio": "Backend Engineer at TechCorp",
+        "linkedin": "johnsmith"
+      }
+    ],
+    "description": "Join us for an evening of deep dives into MongoDB aggregation pipelines and performance tuning. Networking and pizza included!",
+    "meetupLink": "https://meetup.com/mongodb-zurich",
+    "images": [],
+    "presentations": []
+  },
+  {
+    "id": "2",
+    "title": "MongoDB Day 2025",
+    "date": "2025-11-20",
+    "location": {
+      "name": "Convention Center",
+      "address": "Messeplatz 1, Berlin"
+    },
+    "type": "MongoDBDay",
+    "speakers": [],
+    "description": "The annual gathering of MongoDB enthusiasts.",
+    "summary": "It was a blast! We had over 500 attendees.",
+    "images": [
+      "/images/event2-1.jpg"
+    ],
+    "presentations": [
+      {
+        "title": "Keynote",
+        "url": "/downloads/keynote.pdf"
+      }
+    ]
+  }
+]
