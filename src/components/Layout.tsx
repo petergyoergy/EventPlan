@@ -10,7 +10,7 @@ const Layout: React.FC = () => {
             <header className="header">
                 <div className="container header-content">
                     <Link to="/" className="logo">
-                        Events<span className="logo-highlight">Plan</span>
+                        User Group Event<span className="logo-highlight">Plan</span>
                     </Link>
                     <nav className="nav">
                         <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Home</Link>
