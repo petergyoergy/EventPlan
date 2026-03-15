@@ -1,5 +1,21 @@
 [
   {
+    "id": "3",
+    "title": "MongoDB User Group / MongoDB and AI",
+    "date": "2026-03-19",
+    "time": "18:30",
+    "location": {
+      "name": "Verlag Urbane Medien",
+      "address": "Neugasse 6, Zürich"
+    },
+    "type": "UserGroup",
+    "speakers": [],
+    "description": "AI + MongoDB in Practice — Zürich Meetup Announcement. The MongoDB User Group Zürich is back with an exciting session where we’ll explore how to use an AI framework to integrate MongoDB into modern software projects. Discover practical approaches, learn from real-world insights, and connect with fellow developers.",
+    "meetupLink": "https://www.meetup.com/de-DE/mongodb-usergroup-zurich/events/313591555/",
+    "images": [],
+    "presentations": []
+  },
+  {
     "id": "1",
     "title": "MongoDB User Group: Q1 2026",
     "date": "2026-03-15",
