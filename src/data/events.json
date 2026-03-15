@@ -6,7 +6,8 @@
     "time": "18:30",
     "location": {
       "name": "Verlag Urbane Medien",
-      "address": "Neugasse 6, Zürich"
+      "address": "Neugasse 6, Zürich",
+      "mapUrl": "https://www.google.com/maps/place/47°22'52.5%22N+8°31'56.1%22E/@47.381256,8.532256,733m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d47.381256!4d8.532256?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D"
     },
     "type": "UserGroup",
     "speakers": [],
@@ -17,30 +18,29 @@
   },
   {
     "id": "1",
-    "title": "MongoDB User Group: Q1 2026",
-    "date": "2026-03-15",
+    "title": "MongoDB User Group / MongoDB and AI",
+    "date": "2025-10-23",
     "time": "18:00",
     "location": {
-      "name": "TechHub Berlin",
-      "address": "Friedrichstraße 123, 10117 Berlin",
+      "name": "Verlag Urbane Medien",
+      "address": "Neugasse 6, 8005 Zürich, Switzerland",
       "mapUrl": "https://maps.google.com"
     },
     "type": "UserGroup",
     "speakers": [
       {
-        "name": "Jane Doe",
-        "bio": "Senior Developer Advocate at MongoDB",
-        "twitter": "janedoe"
-      },
-      {
-        "name": "John Smith",
-        "bio": "Backend Engineer at TechCorp",
-        "linkedin": "johnsmith"
+        "name": "Richmond Alake",
+        "bio": "Staff Developer Advocate",
+        "twitter": "richmondalake"
       }
     ],
-    "description": "Join us for an evening of deep dives into MongoDB aggregation pipelines and performance tuning. Networking and pizza included!",
-    "meetupLink": "https://meetup.com/mongodb-zurich",
-    "images": [],
+    "description": "During this session, Staff Developer Advocate Richmond Alake explored the transformative impact of AI agents and agentic systems, providing invaluable insights into constructing AI Agents powered by LLMs, developing agentic systems for complex workflows, and interacting with databases.",
+    "meetupLink": "https://www.meetup.com/de-de/mongodb-usergroup-zurich/events/311548369/?eventOrigin=group_past_events",
+    "summary": "We had an amazing time exploring AI agents. The insights into building LLM-powered applications using MongoDB were incredibly valuable.",
+    "images": [
+      "/images/past_event_1.png",
+      "/images/past_event_2.png"
+    ],
     "presentations": []
   },
   {
